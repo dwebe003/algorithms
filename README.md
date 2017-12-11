@@ -1,1 +1,1 @@
-### Various algorithms for when they are needed
+### Various algorithms for both practice and when they are needed
