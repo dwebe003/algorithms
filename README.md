@@ -11,3 +11,4 @@
 		Remove Duplicates
 		Reverse C-String
 		Longest Consecutive Sequence
+		Is Anagram
