@@ -1,1 +1,12 @@
-### Various algorithms for both practice and when they are needed
+### Contents:
+	## Sorting Algorithms:
+		Bubble Sort
+		Bucket Sort
+		Dutch Flag
+		Merge Sort
+		Quick Sort
+	
+	## Array/String Operations:
+		All Unique Characters
+		Remove Duplicates
+		Reverse C-String
