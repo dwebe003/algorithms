@@ -10,3 +10,4 @@
 		All Unique Characters
 		Remove Duplicates
 		Reverse C-String
+		Longest Consecutive Sequence
