@@ -1,12 +1,12 @@
-### Contents:
-	## Sorting Algorithms:
+
+## Sorting Algorithms:
 		Bubble Sort
 		Bucket Sort
 		Dutch Flag
 		Merge Sort
 		Quick Sort
 	
-	## Array/String Operations:
+## Array/String Operations:
 		All Unique Characters
 		Remove Duplicates
 		Reverse C-String
