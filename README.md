@@ -12,3 +12,7 @@
 		Reverse C-String
 		Longest Consecutive Sequence
 		Is Anagram
+		Is Balanced (Binary Tree)
+		
+## Searching Algorithms:
+		Binary Search Tree
